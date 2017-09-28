@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<ArrayOfTaskItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TaskItem>
+    <ID>2</ID>
+    <Caption>Clean room</Caption>
+    <Description>Organize clothes (probably while packing)</Description>
+    <Priority>Low</Priority>
+    <Active>true</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>3</ID>
+    <Caption>Caz Supercon photos</Caption>
+    <Description />
+    <Priority>Urgent</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>4</ID>
+    <Caption>Car Registration</Caption>
+    <Description />
+    <Priority>Medium</Priority>
+    <Active>true</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>5</ID>
+    <Caption>Test new triggers</Caption>
+    <Description />
+    <Priority>Urgent</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>6</ID>
+    <Caption>Packing</Caption>
+    <Description>Pack for Dragon Con. Refer to 2016 checklist. Include new flashes, new triggers, and new lightstand.</Description>
+    <Priority>High</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>7</ID>
+    <Caption>Cashiers Office refund</Caption>
+    <Description />
+    <Priority>Urgent</Priority>
+    <Active>true</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>9</ID>
+    <Caption>Goodwill trip</Caption>
+    <Description />
+    <Priority>Low</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>10</ID>
+    <Caption>Call Dad</Caption>
+    <Description />
+    <Priority>Low</Priority>
+    <Active>true</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>11</ID>
+    <Caption>Amazon Prime</Caption>
+    <Description>Buy important stuff from Amazon.</Description>
+    <Priority>Medium</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>12</ID>
+    <Caption>Email Heber</Caption>
+    <Description />
+    <Priority>Urgent</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>13</ID>
+    <Caption>Custom Priority</Caption>
+    <Description />
+    <Priority>Low</Priority>
+    <Active>true</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>14</ID>
+    <Caption>Sort by Priority</Caption>
+    <Description />
+    <Priority>Medium</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>15</ID>
+    <Caption>Edit Task</Caption>
+    <Description />
+    <Priority>Medium</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>16</ID>
+    <Caption>Install Julia</Caption>
+    <Description>Install Jupyter</Description>
+    <Priority>Medium</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>17</ID>
+    <Caption>test</Caption>
+    <Description />
+    <Priority>Low</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>18</ID>
+    <Caption>test3</Caption>
+    <Description />
+    <Priority>Low</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>19</ID>
+    <Caption>New</Caption>
+    <Description />
+    <Priority>High</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>20</ID>
+    <Caption>High</Caption>
+    <Description />
+    <Priority>Urgent</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>21</ID>
+    <Caption>Lacey's photo retouch</Caption>
+    <Description>Retouch photo and fix blemishes.</Description>
+    <Priority>Urgent</Priority>
+    <Active>true</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>22</ID>
+    <Caption>Gym 2</Caption>
+    <Description />
+    <Priority>Urgent</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>23</ID>
+    <Caption>Talk to OIS (FTE)</Caption>
+    <Description />
+    <Priority>Urgent</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>24</ID>
+    <Caption>Test Description</Caption>
+    <Description>A long long time ago in a galaxy far far away... there lived an ancient order called the Jedi. The Jedi were masters of The Force.</Description>
+    <Priority>Low</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>25</ID>
+    <Caption>Settings file</Caption>
+    <Description>To store sorted/unsorted</Description>
+    <Priority>Low</Priority>
+    <Active>true</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>26</ID>
+    <Caption>1</Caption>
+    <Description />
+    <Priority>Low</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>27</ID>
+    <Caption>12</Caption>
+    <Description />
+    <Priority>Low</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>28</ID>
+    <Caption>2</Caption>
+    <Description />
+    <Priority>Low</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>29</ID>
+    <Caption>3</Caption>
+    <Description />
+    <Priority>Low</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>30</ID>
+    <Caption>5</Caption>
+    <Description />
+    <Priority>Low</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>31</ID>
+    <Caption>r</Caption>
+    <Description />
+    <Priority>Low</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>32</ID>
+    <Caption>Bulk deletion</Caption>
+    <Description>Provide a way to delete multiple items at once.</Description>
+    <Priority>Low</Priority>
+    <Active>true</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>33</ID>
+    <Caption>Task Groups</Caption>
+    <Description />
+    <Priority>Low</Priority>
+    <Active>true</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>34</ID>
+    <Caption>Prepare 326 Spreadsheet</Caption>
+    <Description>Prepare a grading spreadsheet, that helps TAs to record grades/deductions.</Description>
+    <Priority>Urgent</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>35</ID>
+    <Caption>Summarize Labs (326)</Caption>
+    <Description>Build a summary of the labs for this Thursday. Check repo data - commits, issues etc.</Description>
+    <Priority>Urgent</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>36</ID>
+    <Caption>Set up iTrust</Caption>
+    <Description />
+    <Priority>High</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>37</ID>
+    <Caption>Greyhound Refund</Caption>
+    <Description />
+    <Priority>Urgent</Priority>
+    <Active>true</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>38</ID>
+    <Caption>326 OBP grading</Caption>
+    <Description />
+    <Priority>Urgent</Priority>
+    <Active>false</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>39</ID>
+    <Caption>Call DHS</Caption>
+    <Description>Get the survey thing sorted out.</Description>
+    <Priority>Urgent</Priority>
+    <Active>true</Active>
+  </TaskItem>
+  <TaskItem>
+    <ID>40</ID>
+    <Caption>326 attendance</Caption>
+    <Description />
+    <Priority>Urgent</Priority>
+    <Active>true</Active>
+  </TaskItem>
+</ArrayOfTaskItem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfToDoListItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ToDoListItem>
+    <ID>1</ID>
+    <ItemText>Laundry</ItemText>
+    <Priority>High</Priority>
+  </ToDoListItem>
+  <ToDoListItem>
+    <ID>2</ID>
+    <ItemText>Clean room</ItemText>
+    <Priority>Medium</Priority>
+  </ToDoListItem>
+  <ToDoListItem>
+    <ID>3</ID>
+    <ItemText>Caz Supercon photos</ItemText>
+    <Priority>High</Priority>
+  </ToDoListItem>
+  <ToDoListItem>
+    <ID>4</ID>
+    <ItemText>Car Registration</ItemText>
+    <Priority>Medium</Priority>
+  </ToDoListItem>
+  <ToDoListItem>
+    <ID>5</ID>
+    <ItemText>Test new triggers</ItemText>
+    <Priority>High</Priority>
+  </ToDoListItem>
+  <ToDoListItem>
+    <ID>6</ID>
+    <ItemText>Dragon Con packing</ItemText>
+    <Priority>Medium</Priority>
+  </ToDoListItem>
+  <ToDoListItem>
+    <ID>7</ID>
+    <ItemText>Cashiers Office refund</ItemText>
+    <Priority>High</Priority>
+  </ToDoListItem>
+  <ToDoListItem>
+    <ID>8</ID>
+    <ItemText>Shower</ItemText>
+    <Priority>Medium</Priority>
+  </ToDoListItem>
+</ArrayOfToDoListItem>
